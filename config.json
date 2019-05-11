@@ -1,0 +1,25 @@
+{
+    "machine":[
+        {
+            "name":"",
+            "login":"",
+            "password":"",
+            "repoPath":"",
+            "makePath":"",
+            "makeCmd":"",
+            "guest":false
+        },
+        {
+            "name":"",
+            "login":"",
+            "password":"",
+            "repoPath":"",
+            "makePath":"",
+            "makeCmd":"",
+            "guest":false
+        }
+    ],
+    "constants":{
+        "logPath":""
+    }
+}
